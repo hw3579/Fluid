@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'hw3579', // Usually your GitHub org/user name.
-  projectName: 'my-website', // Usually your repo name.
+  projectName: 'Fluid', // Usually your repo name.
 
   presets: [
     [
