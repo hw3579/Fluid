@@ -4,11 +4,10 @@ A soap dispenser (in Europe mostly known as a soap squirter) is a device that, w
 The main application of the soap dispenser is used for cleaning and washing and if used on the skin to remove dirt, chemicals, bacteria etc. from the surface of the skin, to make sure we are clean and save.
 
 
-<img  src="./../../static/img/fluid/手动渲染.jpg"  />
 
-![avatar](./../../static/img/fluid/手动渲染.jpg)
+![avatar logo:center:](./../../static/img/fluid/手动渲染.jpg)
 
-![avatar](./../../static/img/fluid/自动渲染.jpg)
+![avatar logo:center:](./../../static/img/fluid/自动渲染.png)
 
 
 
