@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Soap Dispencer',
-  tagline: 'XXXXX',
+  tagline: 'Fluid Dynamics Group 17',
   url: 'https://hw3579.github.io',
   baseUrl: '/Fluid/',
   onBrokenLinks: 'throw',
@@ -51,13 +51,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Document',
-          },
-          {
-            type: 'doc',
-            docId: 'intro',
+            docId: 'intro/introduce',
             position: 'left',
             label: 'Introduce',
           },
@@ -73,7 +67,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '网站构建',
+            title: 'Website construction',
             items: [
               {
                 label: 'Jiaqi Yao',
@@ -82,7 +76,7 @@ const config = {
             ],
           },
           {
-            title: '资料收集',
+            title: 'Data collection',
             items: [
               {
                 label: 'Ruixin Zhan',
@@ -95,7 +89,7 @@ const config = {
             ],
           },
           {
-            title: '文案校对',
+            title: 'Proofreading',
             items: [
               {
                 label: 'Ziming Zhou',
@@ -108,7 +102,7 @@ const config = {
             ],
           },
           {
-            title: '鸣谢',
+            title: 'Acknowledgements',
             items: [
               {
                 label: 'GitHub',
