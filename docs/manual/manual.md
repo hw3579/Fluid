@@ -10,4 +10,4 @@ Easy to control the amount used per application.
 
 Here is a video about the manual soap dispencer.
 
-[![avatar logo:center:](./../../static/img/fluid/v1.png)](https://www.bilibili.com/video/BV1kd4y1g7j7/?spm_id_from=333.788.recommend_more_video.1&vd_source=5a3a894665630fbf73702630e149f113)
+[![avatar logo:center:](./../../static/img/fluid/v1.png)](https://www.youtube.com/watch?v=9kzC4CpPxSQ)
