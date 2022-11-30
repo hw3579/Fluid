@@ -9,7 +9,7 @@ const config = {
   title: 'Soap Dispencer',
   tagline: 'XXXXX',
   url: 'https://hw3579.github.io',
-  baseUrl: '/my-website/',
+  baseUrl: '/Fluid/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
