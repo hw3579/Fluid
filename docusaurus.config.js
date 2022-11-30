@@ -53,7 +53,7 @@ const config = {
             type: 'doc',
             docId: 'intro/introduce',
             position: 'left',
-            label: 'Introduce',
+            label: 'Introduction',
           },
           /*{to: '/blog', label: 'Blog', position: 'left'},*/
           {
@@ -80,7 +80,7 @@ const config = {
             items: [
               {
                 label: 'Ruixin Zhan',
-                to: '/',
+                href: 'https://500px.com.cn/zhanruix07',
               },
               {
                 label: 'Xuzhao Zhang',
