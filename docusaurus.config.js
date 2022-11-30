@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '相得益章项目',
-  tagline: '一个关注社会被遗忘群体的项目',
+  title: 'Soap Dispencer',
+  tagline: 'XXXXX',
   url: 'https://hw3579.github.io',
   baseUrl: '/my-website/',
   onBrokenLinks: 'throw',
@@ -43,7 +43,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: '相得益章',
+        title: 'Fluid',
         logo: {
           alt: '相得益章项目 Logo',
           src: 'img/logo.jpg',
@@ -53,7 +53,13 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: '项目简介',
+            label: 'Document',
+          },
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: 'Introduce',
           },
           /*{to: '/blog', label: 'Blog', position: 'left'},*/
           {
@@ -67,17 +73,47 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '网站构建',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Jiaqi Yao',
+                href: 'https://github.com/hw3579',
               },
             ],
           },
           {
-            title: 'Community',
+            title: '资料收集',
             items: [
+              {
+                label: 'Ruixin Zhan',
+                to: '/',
+              },
+              {
+                label: 'Xuzhao Zhang',
+                href: 'https://discordapp.com/invite/docusaurus',
+              },
+            ],
+          },
+          {
+            title: '文案校对',
+            items: [
+              {
+                label: 'Ziming Zhou',
+                to: '/blog',
+              },
+              {
+                label: 'Brooks',
+                href: 'https://github.com/facebook/docusaurus',
+              },
+            ],
+          },
+          {
+            title: '鸣谢',
+            items: [
+              {
+                label: 'GitHub',
+                href: 'https://github.com/facebook/docusaurus',
+              },
               {
                 label: 'Stack Overflow',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
@@ -92,21 +128,8 @@ const config = {
               },
             ],
           },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Fluid Dynamics Group 17, Inc.`,//Built with Docusaurus.
       },
       prism: {
         theme: lightCodeTheme,
