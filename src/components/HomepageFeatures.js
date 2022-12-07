@@ -21,7 +21,7 @@ const FeatureList = [
       Soap dispenser with automatic soap generation via infrared sensing
       </>
     ),
-  },/*
+  },
   {
     title: 'Powered by React',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
@@ -32,7 +32,7 @@ const FeatureList = [
       </>
     ),
   },
-  */
+  
 ];
 
 function Feature({Svg, title, description}) {
