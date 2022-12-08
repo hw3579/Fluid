@@ -1,7 +1,7 @@
 # List of key members
 
-- 710082147 Jiaqi Yao 
-- 710082148 Ruixin Zhan
--           Xuzhao Zhang
--           Ziming Zhou
--           Brooks
+- Jiaqi Yao 710082147
+- Ruixin Zhan 710082148
+- Brooks
+- Xuzhao Zhang 720087566
+- Ziming Zhou 
