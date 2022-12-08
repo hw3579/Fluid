@@ -23,12 +23,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'List of Members',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Contributer: Jiaqi Yao, Ruixin Zhan, Brooks, Xuzhao Zhang, Ziming Zhou.
       </>
     ),
   },
